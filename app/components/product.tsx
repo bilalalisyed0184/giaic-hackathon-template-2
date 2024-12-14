@@ -69,7 +69,7 @@ const Product = () => {
           {/* View Collection Button */}
           <div className='my-10 flex justify-center items-center'>
             <button className='bg-[#F9F9F9] py-4 px-6 rounded-[5px] text-[#2A254B]' onClick={handleNavigation}>
-              View products
+              View collection
             </button>
           </div>
         </div>
